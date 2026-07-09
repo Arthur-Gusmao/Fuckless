@@ -1,4 +1,4 @@
-# FUCKLESS 
+## FUCKLESS 
 
 > software without the bullshit
 
@@ -10,7 +10,7 @@ Clear design. No unnecessary complexity.
 
 ---
 
-## Table of Contents
+### Table of Contents
 
 - [Inclusion Criteria](#inclusion-criteria)
   - [Required](#required)
@@ -22,11 +22,11 @@ Clear design. No unnecessary complexity.
 
 ---
 
-# Inclusion Criteria
+#### Inclusion Criteria
 
 The goal of this wiki is to curate software that values simplicity, transparency, and user control. Every listed project is evaluated using the following criteria.
 
-## Required
+##### Required
 
 Projects should satisfy most or all of these requirements.
 
@@ -42,7 +42,7 @@ Projects should satisfy most or all of these requirements.
 * Stable
 * Unix philosophy
 
-## Principles
+##### Principles
 
 Software listed here should:
 
@@ -56,7 +56,7 @@ Software listed here should:
 
 ---
 
-# References
+### References
 
 This wiki did not appear out of nowhere. The following projects have inspired its philosophy.
 
@@ -67,7 +67,7 @@ This wiki did not appear out of nowhere. The following projects have inspired it
 
 ---
 
-# Contributing
+### Contributing
 
 Contributions are welcome.
 
@@ -77,7 +77,7 @@ Quality is preferred over quantity.
 
 ---
 
-## Notes
+#### Notes
 
 This wiki is opinionated.
 
