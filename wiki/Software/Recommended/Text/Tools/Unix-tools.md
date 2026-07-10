@@ -10,3 +10,5 @@ Tools like
  - cut
  - tr
  - ed
+
+sometimes are more powerful than any text editor
