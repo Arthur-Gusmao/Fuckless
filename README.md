@@ -1,4 +1,4 @@
-## FUCKLESS 
+## Fuckless
 
 > software without the bullshit
 
@@ -15,7 +15,6 @@ Clear design. No unnecessary complexity.
 - [Inclusion Criteria](#inclusion-criteria)
   - [Required](#required)
   - [Principles](#principles)
-- [Considered Harmful](Considered-Harmful)
 - [References](#references)
 - [Contributing](#contributing)
 - [Notes](#notes)
