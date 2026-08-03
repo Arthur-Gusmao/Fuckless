@@ -12,12 +12,35 @@ Clear design. No unnecessary complexity.
 
 ### Table of Contents
 
+- [Content](#content)
 - [Inclusion Criteria](#inclusion-criteria)
   - [Required](#required)
   - [Principles](#principles)
 - [References](#references)
 - [Contributing](#contributing)
 - [Notes](#notes)
+
+---
+
+### Content
+
+The curated software lives in [wiki/Software/Recommended](wiki/Software/Recommended/README.md), organized by category:
+
+* [Operating Systems](wiki/Software/Recommended/Operating-Systems/)
+* [Coreutils](wiki/Software/Recommended/Coreutils/)
+* [Shells](wiki/Software/Recommended/Shells/)
+* [Terminals](wiki/Software/Recommended/Terminals/)
+* [Editors](wiki/Software/Recommended/Editors/)
+* [File Management](wiki/Software/Recommended/File-Management/)
+* [Tools](wiki/Software/Recommended/Tools/)
+* [Network](wiki/Software/Recommended/Network/)
+* [System](wiki/Software/Recommended/System/)
+* [Media](wiki/Software/Recommended/Media/)
+* [Libraries](wiki/Software/Recommended/Libraries/)
+* [Wayland](wiki/Software/Recommended/Wayland/)
+* [Essays](wiki/Software/Recommended/Essays/)
+
+Each entry follows the same structure: a short introduction, followed by sections on design, philosophy, and trade-offs.
 
 ---
 
